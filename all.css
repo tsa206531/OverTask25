@@ -1,0 +1,96 @@
+.paper{
+  max-width: 1372px;
+  /* padding: 5% 50px; */
+  font-family: "Noto Sans TC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.brg{
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: #0027D5;
+  color: #FFFFFF;
+}
+.img2{
+background-image:url(
+"https://raw.githubusercontent.com/hexschool/2022-web-layout-training/refs/heads/main/2025-web-camp/desktop/index/Hero%20Section2.png");
+}
+
+.fz-120{
+  font-size: 120px;  
+}
+.fz-52{
+  font-size: 52px;
+}
+.fz-32{
+    font-size: 32px;
+}
+.fz-28{
+  font-size: 28px;
+}
+.fz-24{
+  font-size: 24px;
+}
+.fz-16{
+  font-size: 16px;
+}
+.fz-8{
+  font-size: 8px;
+}
+
+.pb-80{
+    padding-bottom: 80px;
+}
+.pb-40{
+    padding-bottom: 40px;
+}
+
+.pt-80{
+    padding-top: 80px;
+}
+.pt-40{
+    padding-top: 40px;
+}
+.pl-80{
+  padding-left: 80px;
+}
+
+.Tblue{
+color: #0027D5;
+}
+.h-180{
+  height: 180px;
+  background-size: cover
+}
+.hero{
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* 設定顯示 3 行 */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color:#4B4B4B;
+}
+
+
+p{
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* 設定顯示 3 行 */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color:#4B4B4B;
+}
+
+
+
+a {
+    text-decoration: none !important;
+}
+
+
+input:focus {
+border: #ffffff;
+outline: none;
+}
+
+
+/* d-none d-sm-block */
